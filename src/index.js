@@ -61,6 +61,7 @@ export { default as Separator } from "./Separator";
 export { default as StopoverArrow } from "./StopoverArrow";
 export { default as Textarea } from "./Textarea";
 export { default as Tile } from "./Tile";
+export { default as Tooltip } from "./Tooltip";
 
 export { default as TripSegment } from "./TripSegment";
 export { default as TripSector } from "./TripSector";
