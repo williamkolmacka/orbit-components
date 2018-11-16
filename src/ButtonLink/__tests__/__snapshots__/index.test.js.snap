@@ -5476,6 +5476,8 @@ exports[`ButtonLink with Icon should match snapshot 2`] = `
                                   ";vertical-align:middle;fill:currentColor;color:",
                                   [Function],
                                   ";",
+                                  [Function],
+                                  ";",
                                 ],
                               },
                               "defaultProps": Object {
@@ -8666,6 +8668,8 @@ exports[`ButtonLink with Icon should match snapshot 2`] = `
                                   ";height:",
                                   [Function],
                                   ";vertical-align:middle;fill:currentColor;color:",
+                                  [Function],
+                                  ";",
                                   [Function],
                                   ";",
                                 ],

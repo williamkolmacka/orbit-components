@@ -107,7 +107,7 @@ exports[`Storyshots List Default 1`] = `
                 className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -125,7 +125,7 @@ exports[`Storyshots List Default 1`] = `
                 className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -146,7 +146,7 @@ exports[`Storyshots List Default 1`] = `
                 className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -647,7 +647,7 @@ exports[`Storyshots List Different type and size 1`] = `
                 className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -665,7 +665,7 @@ exports[`Storyshots List Different type and size 1`] = `
                 className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -683,7 +683,7 @@ exports[`Storyshots List Different type and size 1`] = `
                 className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -1172,7 +1172,7 @@ exports[`Storyshots List Playground 1`] = `
                 className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 eQrvxm"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 loSZP"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -1190,7 +1190,7 @@ exports[`Storyshots List Playground 1`] = `
                 className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 eQrvxm"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 loSZP"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -1208,7 +1208,7 @@ exports[`Storyshots List Playground 1`] = `
                 className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 eQrvxm"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 loSZP"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -1867,7 +1867,7 @@ exports[`Storyshots List RTL 1`] = `
                 className="ListItem__IconContainer-sc-1vswvev-1 cbucXp"
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -1885,7 +1885,7 @@ exports[`Storyshots List RTL 1`] = `
                 className="ListItem__IconContainer-sc-1vswvev-1 cbucXp"
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -1903,7 +1903,7 @@ exports[`Storyshots List RTL 1`] = `
                 className="ListItem__IconContainer-sc-1vswvev-1 cbucXp"
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -2645,7 +2645,7 @@ exports[`Storyshots List With carrier 1`] = `
                 className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -2663,7 +2663,7 @@ exports[`Storyshots List With carrier 1`] = `
                 className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -2681,7 +2681,7 @@ exports[`Storyshots List With carrier 1`] = `
                 className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >

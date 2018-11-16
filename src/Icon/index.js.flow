@@ -1,5 +1,4 @@
 // @flow
-
 import type { Globals } from "../common/common.js.flow";
 import defaultTokens from "../defaultTokens";
 
@@ -16,13 +15,14 @@ type Color =
   | "critical";
 
 export type Props = {|
-  +size: Size,
+  ...Globals,
+  +size?: Size,
   +color?: Color,
-  +className: string,
-  +customColor: string,
+  +className?: string,
+  +customColor?: string,
   +children: React$Node,
   +viewBox: string,
-  ...Globals,
+  +reverseOnRtl?: boolean,
 |};
 
 declare export default React$ComponentType<Props>;

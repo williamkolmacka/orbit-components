@@ -104,7 +104,7 @@ exports[`Storyshots TripSector Multiple days 1`] = `
               className="TripDate__StyledTripDate-sc-1t2zo5b-0 kmrFNu"
             >
               <svg
-                className="Icon__StyledIcon-sc-1pnzn3g-0 jWhQVI"
+                className="Icon__StyledIcon-sc-1pnzn3g-0 iJQDHv"
                 preserveAspectRatio="xMidYMid meet"
                 viewBox="0 0 24 24"
               >
@@ -126,7 +126,7 @@ exports[`Storyshots TripSector Multiple days 1`] = `
                 onClick={[Function]}
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 dLVAmt"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 hBtHff"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -210,7 +210,7 @@ exports[`Storyshots TripSector Multiple days 1`] = `
                       className="TripSegment__StyledChevrons-sc-1pmcslk-4 bQNEky"
                     >
                       <svg
-                        className="Icon__StyledIcon-sc-1pnzn3g-0 dLVAmt"
+                        className="Icon__StyledIcon-sc-1pnzn3g-0 hBtHff"
                         preserveAspectRatio="xMidYMid meet"
                         viewBox="0 0 24 24"
                       >
@@ -257,7 +257,7 @@ exports[`Storyshots TripSector Multiple days 1`] = `
                           className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
                         >
                           <svg
-                            className="Icon__StyledIcon-sc-1pnzn3g-0 jAabTa"
+                            className="Icon__StyledIcon-sc-1pnzn3g-0 gsgdYz"
                             preserveAspectRatio="xMidYMid meet"
                             viewBox="0 0 24 24"
                           >
@@ -286,7 +286,7 @@ exports[`Storyshots TripSector Multiple days 1`] = `
                     className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -304,7 +304,7 @@ exports[`Storyshots TripSector Multiple days 1`] = `
                     className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -327,7 +327,7 @@ exports[`Storyshots TripSector Multiple days 1`] = `
                     className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -348,7 +348,7 @@ exports[`Storyshots TripSector Multiple days 1`] = `
                 onClick={[Function]}
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 dLVAmt"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 hBtHff"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -432,7 +432,7 @@ exports[`Storyshots TripSector Multiple days 1`] = `
                       className="TripSegment__StyledChevrons-sc-1pmcslk-4 bQNEky"
                     >
                       <svg
-                        className="Icon__StyledIcon-sc-1pnzn3g-0 dLVAmt"
+                        className="Icon__StyledIcon-sc-1pnzn3g-0 hBtHff"
                         preserveAspectRatio="xMidYMid meet"
                         viewBox="0 0 24 24"
                       >
@@ -457,7 +457,7 @@ exports[`Storyshots TripSector Multiple days 1`] = `
                           className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
                         >
                           <svg
-                            className="Icon__StyledIcon-sc-1pnzn3g-0 jAabTa"
+                            className="Icon__StyledIcon-sc-1pnzn3g-0 gsgdYz"
                             preserveAspectRatio="xMidYMid meet"
                             viewBox="0 0 24 24"
                           >
@@ -486,7 +486,7 @@ exports[`Storyshots TripSector Multiple days 1`] = `
                     className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -504,7 +504,7 @@ exports[`Storyshots TripSector Multiple days 1`] = `
                     className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -530,7 +530,7 @@ exports[`Storyshots TripSector Multiple days 1`] = `
                 onClick={[Function]}
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 dLVAmt"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 hBtHff"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -614,7 +614,7 @@ exports[`Storyshots TripSector Multiple days 1`] = `
                       className="TripSegment__StyledChevrons-sc-1pmcslk-4 bQNEky"
                     >
                       <svg
-                        className="Icon__StyledIcon-sc-1pnzn3g-0 dLVAmt"
+                        className="Icon__StyledIcon-sc-1pnzn3g-0 hBtHff"
                         preserveAspectRatio="xMidYMid meet"
                         viewBox="0 0 24 24"
                       >
@@ -639,7 +639,7 @@ exports[`Storyshots TripSector Multiple days 1`] = `
                           className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
                         >
                           <svg
-                            className="Icon__StyledIcon-sc-1pnzn3g-0 jAabTa"
+                            className="Icon__StyledIcon-sc-1pnzn3g-0 gsgdYz"
                             preserveAspectRatio="xMidYMid meet"
                             viewBox="0 0 24 24"
                           >
@@ -668,7 +668,7 @@ exports[`Storyshots TripSector Multiple days 1`] = `
                     className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -686,7 +686,7 @@ exports[`Storyshots TripSector Multiple days 1`] = `
                     className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -709,7 +709,7 @@ exports[`Storyshots TripSector Multiple days 1`] = `
                     className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -726,7 +726,7 @@ exports[`Storyshots TripSector Multiple days 1`] = `
               className="TripDate__StyledTripDate-sc-1t2zo5b-0 kmrFNu"
             >
               <svg
-                className="Icon__StyledIcon-sc-1pnzn3g-0 jWhQVI"
+                className="Icon__StyledIcon-sc-1pnzn3g-0 iJQDHv"
                 preserveAspectRatio="xMidYMid meet"
                 viewBox="0 0 24 24"
               >
@@ -748,7 +748,7 @@ exports[`Storyshots TripSector Multiple days 1`] = `
                 onClick={[Function]}
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 dLVAmt"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 hBtHff"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -832,7 +832,7 @@ exports[`Storyshots TripSector Multiple days 1`] = `
                       className="TripSegment__StyledChevrons-sc-1pmcslk-4 bQNEky"
                     >
                       <svg
-                        className="Icon__StyledIcon-sc-1pnzn3g-0 dLVAmt"
+                        className="Icon__StyledIcon-sc-1pnzn3g-0 hBtHff"
                         preserveAspectRatio="xMidYMid meet"
                         viewBox="0 0 24 24"
                       >
@@ -857,7 +857,7 @@ exports[`Storyshots TripSector Multiple days 1`] = `
                           className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
                         >
                           <svg
-                            className="Icon__StyledIcon-sc-1pnzn3g-0 jAabTa"
+                            className="Icon__StyledIcon-sc-1pnzn3g-0 gsgdYz"
                             preserveAspectRatio="xMidYMid meet"
                             viewBox="0 0 24 24"
                           >
@@ -4884,7 +4884,7 @@ exports[`Storyshots TripSector Playground 1`] = `
               className="TripDate__StyledTripDate-sc-1t2zo5b-0 kmrFNu"
             >
               <svg
-                className="Icon__StyledIcon-sc-1pnzn3g-0 jWhQVI"
+                className="Icon__StyledIcon-sc-1pnzn3g-0 iJQDHv"
                 preserveAspectRatio="xMidYMid meet"
                 viewBox="0 0 24 24"
               >
@@ -4906,7 +4906,7 @@ exports[`Storyshots TripSector Playground 1`] = `
                 onClick={[Function]}
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 dLVAmt"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 hBtHff"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -4990,7 +4990,7 @@ exports[`Storyshots TripSector Playground 1`] = `
                       className="TripSegment__StyledChevrons-sc-1pmcslk-4 bQNEky"
                     >
                       <svg
-                        className="Icon__StyledIcon-sc-1pnzn3g-0 dLVAmt"
+                        className="Icon__StyledIcon-sc-1pnzn3g-0 hBtHff"
                         preserveAspectRatio="xMidYMid meet"
                         viewBox="0 0 24 24"
                       >
@@ -5037,7 +5037,7 @@ exports[`Storyshots TripSector Playground 1`] = `
                           className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
                         >
                           <svg
-                            className="Icon__StyledIcon-sc-1pnzn3g-0 jAabTa"
+                            className="Icon__StyledIcon-sc-1pnzn3g-0 gsgdYz"
                             preserveAspectRatio="xMidYMid meet"
                             viewBox="0 0 24 24"
                           >
@@ -5964,7 +5964,7 @@ exports[`Storyshots TripSector RTL 1`] = `
               className="TripDate__StyledTripDate-sc-1t2zo5b-0 gEQLBt"
             >
               <svg
-                className="Icon__StyledIcon-sc-1pnzn3g-0 jWhQVI"
+                className="Icon__StyledIcon-sc-1pnzn3g-0 iJQDHv"
                 preserveAspectRatio="xMidYMid meet"
                 viewBox="0 0 24 24"
               >
@@ -5986,7 +5986,7 @@ exports[`Storyshots TripSector RTL 1`] = `
                 onClick={[Function]}
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 dLVAmt"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 hBtHff"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -6070,7 +6070,7 @@ exports[`Storyshots TripSector RTL 1`] = `
                       className="TripSegment__StyledChevrons-sc-1pmcslk-4 bQNEky"
                     >
                       <svg
-                        className="Icon__StyledIcon-sc-1pnzn3g-0 dLVAmt"
+                        className="Icon__StyledIcon-sc-1pnzn3g-0 hBtHff"
                         preserveAspectRatio="xMidYMid meet"
                         viewBox="0 0 24 24"
                       >
@@ -6117,7 +6117,7 @@ exports[`Storyshots TripSector RTL 1`] = `
                           className="ListItem__IconContainer-sc-1vswvev-1 cbucXp"
                         >
                           <svg
-                            className="Icon__StyledIcon-sc-1pnzn3g-0 jAabTa"
+                            className="Icon__StyledIcon-sc-1pnzn3g-0 gsgdYz"
                             preserveAspectRatio="xMidYMid meet"
                             viewBox="0 0 24 24"
                           >
@@ -6146,7 +6146,7 @@ exports[`Storyshots TripSector RTL 1`] = `
                     className="ListItem__IconContainer-sc-1vswvev-1 cbucXp"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -6164,7 +6164,7 @@ exports[`Storyshots TripSector RTL 1`] = `
                     className="ListItem__IconContainer-sc-1vswvev-1 cbucXp"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -6187,7 +6187,7 @@ exports[`Storyshots TripSector RTL 1`] = `
                     className="ListItem__IconContainer-sc-1vswvev-1 cbucXp"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -6208,7 +6208,7 @@ exports[`Storyshots TripSector RTL 1`] = `
                 onClick={[Function]}
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 dLVAmt"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 hBtHff"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -6292,7 +6292,7 @@ exports[`Storyshots TripSector RTL 1`] = `
                       className="TripSegment__StyledChevrons-sc-1pmcslk-4 bQNEky"
                     >
                       <svg
-                        className="Icon__StyledIcon-sc-1pnzn3g-0 dLVAmt"
+                        className="Icon__StyledIcon-sc-1pnzn3g-0 hBtHff"
                         preserveAspectRatio="xMidYMid meet"
                         viewBox="0 0 24 24"
                       >
@@ -6317,7 +6317,7 @@ exports[`Storyshots TripSector RTL 1`] = `
                           className="ListItem__IconContainer-sc-1vswvev-1 cbucXp"
                         >
                           <svg
-                            className="Icon__StyledIcon-sc-1pnzn3g-0 jAabTa"
+                            className="Icon__StyledIcon-sc-1pnzn3g-0 gsgdYz"
                             preserveAspectRatio="xMidYMid meet"
                             viewBox="0 0 24 24"
                           >
@@ -6346,7 +6346,7 @@ exports[`Storyshots TripSector RTL 1`] = `
                     className="ListItem__IconContainer-sc-1vswvev-1 cbucXp"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -6364,7 +6364,7 @@ exports[`Storyshots TripSector RTL 1`] = `
                     className="ListItem__IconContainer-sc-1vswvev-1 cbucXp"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -6390,7 +6390,7 @@ exports[`Storyshots TripSector RTL 1`] = `
                 onClick={[Function]}
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 dLVAmt"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 hBtHff"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -6474,7 +6474,7 @@ exports[`Storyshots TripSector RTL 1`] = `
                       className="TripSegment__StyledChevrons-sc-1pmcslk-4 bQNEky"
                     >
                       <svg
-                        className="Icon__StyledIcon-sc-1pnzn3g-0 dLVAmt"
+                        className="Icon__StyledIcon-sc-1pnzn3g-0 hBtHff"
                         preserveAspectRatio="xMidYMid meet"
                         viewBox="0 0 24 24"
                       >
@@ -6499,7 +6499,7 @@ exports[`Storyshots TripSector RTL 1`] = `
                           className="ListItem__IconContainer-sc-1vswvev-1 cbucXp"
                         >
                           <svg
-                            className="Icon__StyledIcon-sc-1pnzn3g-0 jAabTa"
+                            className="Icon__StyledIcon-sc-1pnzn3g-0 gsgdYz"
                             preserveAspectRatio="xMidYMid meet"
                             viewBox="0 0 24 24"
                           >
@@ -6528,7 +6528,7 @@ exports[`Storyshots TripSector RTL 1`] = `
                     className="ListItem__IconContainer-sc-1vswvev-1 cbucXp"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -6546,7 +6546,7 @@ exports[`Storyshots TripSector RTL 1`] = `
                     className="ListItem__IconContainer-sc-1vswvev-1 cbucXp"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -6569,7 +6569,7 @@ exports[`Storyshots TripSector RTL 1`] = `
                     className="ListItem__IconContainer-sc-1vswvev-1 cbucXp"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -6586,7 +6586,7 @@ exports[`Storyshots TripSector RTL 1`] = `
               className="TripDate__StyledTripDate-sc-1t2zo5b-0 gEQLBt"
             >
               <svg
-                className="Icon__StyledIcon-sc-1pnzn3g-0 jWhQVI"
+                className="Icon__StyledIcon-sc-1pnzn3g-0 iJQDHv"
                 preserveAspectRatio="xMidYMid meet"
                 viewBox="0 0 24 24"
               >
@@ -6608,7 +6608,7 @@ exports[`Storyshots TripSector RTL 1`] = `
                 onClick={[Function]}
               >
                 <svg
-                  className="Icon__StyledIcon-sc-1pnzn3g-0 dLVAmt"
+                  className="Icon__StyledIcon-sc-1pnzn3g-0 hBtHff"
                   preserveAspectRatio="xMidYMid meet"
                   viewBox="0 0 24 24"
                 >
@@ -6692,7 +6692,7 @@ exports[`Storyshots TripSector RTL 1`] = `
                       className="TripSegment__StyledChevrons-sc-1pmcslk-4 bQNEky"
                     >
                       <svg
-                        className="Icon__StyledIcon-sc-1pnzn3g-0 dLVAmt"
+                        className="Icon__StyledIcon-sc-1pnzn3g-0 hBtHff"
                         preserveAspectRatio="xMidYMid meet"
                         viewBox="0 0 24 24"
                       >
@@ -6717,7 +6717,7 @@ exports[`Storyshots TripSector RTL 1`] = `
                           className="ListItem__IconContainer-sc-1vswvev-1 cbucXp"
                         >
                           <svg
-                            className="Icon__StyledIcon-sc-1pnzn3g-0 jAabTa"
+                            className="Icon__StyledIcon-sc-1pnzn3g-0 gsgdYz"
                             preserveAspectRatio="xMidYMid meet"
                             viewBox="0 0 24 24"
                           >

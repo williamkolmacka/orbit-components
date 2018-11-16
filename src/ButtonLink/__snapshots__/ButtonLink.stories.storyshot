@@ -107,7 +107,7 @@ exports[`Storyshots ButtonLink Circled 1`] = `
               className="ButtonLink__IconContainer-sc-14jv5cl-0 pfllg"
             >
               <svg
-                className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                 preserveAspectRatio="xMidYMid meet"
                 viewBox="0 0 24 24"
               >
@@ -699,7 +699,7 @@ exports[`Storyshots ButtonLink Playground 1`] = `
               className="ButtonLink__IconContainer-sc-14jv5cl-0 bijzj"
             >
               <svg
-                className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                 preserveAspectRatio="xMidYMid meet"
                 viewBox="0 0 24 24"
               >
@@ -713,7 +713,7 @@ exports[`Storyshots ButtonLink Playground 1`] = `
               className="ButtonLink__IconContainer-sc-14jv5cl-0 iWGAoM"
             >
               <svg
-                className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                 preserveAspectRatio="xMidYMid meet"
                 viewBox="0 0 24 24"
               >
@@ -1249,7 +1249,7 @@ exports[`Storyshots ButtonLink RTL 1`] = `
               className="ButtonLink__IconContainer-sc-14jv5cl-0 hfafwY"
             >
               <svg
-                className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                 preserveAspectRatio="xMidYMid meet"
                 viewBox="0 0 24 24"
               >

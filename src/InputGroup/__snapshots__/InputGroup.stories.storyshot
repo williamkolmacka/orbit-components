@@ -222,7 +222,7 @@ exports[`Storyshots InputGroup Date of birth 1`] = `
                       className="Select__SelectSuffix-sc-6agypz-4 dtnAjS"
                     >
                       <svg
-                        className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                        className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                         preserveAspectRatio="xMidYMid meet"
                         viewBox="0 0 24 24"
                       >
@@ -1188,7 +1188,7 @@ exports[`Storyshots InputGroup Phone number 1`] = `
                       className="Select__SelectSuffix-sc-6agypz-4 dtnAjS"
                     >
                       <svg
-                        className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                        className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                         preserveAspectRatio="xMidYMid meet"
                         viewBox="0 0 24 24"
                       >
@@ -2020,7 +2020,7 @@ exports[`Storyshots InputGroup Playground 1`] = `
                       className="Select__SelectSuffix-sc-6agypz-4 dtnAjS"
                     >
                       <svg
-                        className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                        className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                         preserveAspectRatio="xMidYMid meet"
                         viewBox="0 0 24 24"
                       >
@@ -2088,7 +2088,7 @@ exports[`Storyshots InputGroup Playground 1`] = `
                       className="Select__SelectSuffix-sc-6agypz-4 dtnAjS"
                     >
                       <svg
-                        className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                        className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                         preserveAspectRatio="xMidYMid meet"
                         viewBox="0 0 24 24"
                       >
@@ -3352,7 +3352,7 @@ exports[`Storyshots InputGroup RTL 1`] = `
                       className="Select__SelectSuffix-sc-6agypz-4 gXjPeR"
                     >
                       <svg
-                        className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                        className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                         preserveAspectRatio="xMidYMid meet"
                         viewBox="0 0 24 24"
                       >

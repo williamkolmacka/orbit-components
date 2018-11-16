@@ -104,7 +104,7 @@ exports[`Storyshots Alert Critical alert 1`] = `
               className="Alert__IconContainer-svgppc-1 ipNFuH"
             >
               <svg
-                className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                 preserveAspectRatio="xMidYMid meet"
                 viewBox="0 0 24 24"
               >
@@ -648,7 +648,7 @@ exports[`Storyshots Alert Info alert 1`] = `
               className="Alert__IconContainer-svgppc-1 jOCXyK"
             >
               <svg
-                className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                 preserveAspectRatio="xMidYMid meet"
                 viewBox="0 0 24 24"
               >
@@ -932,7 +932,7 @@ exports[`Storyshots Alert Playground 1`] = `
               className="Alert__IconContainer-svgppc-1 jOCXyK"
             >
               <svg
-                className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                 preserveAspectRatio="xMidYMid meet"
                 viewBox="0 0 24 24"
               >
@@ -968,7 +968,7 @@ exports[`Storyshots Alert Playground 1`] = `
                         className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
                       >
                         <svg
-                          className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                          className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                           preserveAspectRatio="xMidYMid meet"
                           viewBox="0 0 24 24"
                         >
@@ -990,7 +990,7 @@ exports[`Storyshots Alert Playground 1`] = `
                         className="ListItem__IconContainer-sc-1vswvev-1 goeBax"
                       >
                         <svg
-                          className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                          className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                           preserveAspectRatio="xMidYMid meet"
                           viewBox="0 0 24 24"
                         >
@@ -2005,7 +2005,7 @@ exports[`Storyshots Alert RTL 1`] = `
               className="Alert__IconContainer-svgppc-1 crrRnv"
             >
               <svg
-                className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                 preserveAspectRatio="xMidYMid meet"
                 viewBox="0 0 24 24"
               >
@@ -2041,7 +2041,7 @@ exports[`Storyshots Alert RTL 1`] = `
                         className="ListItem__IconContainer-sc-1vswvev-1 cbucXp"
                       >
                         <svg
-                          className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                          className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                           preserveAspectRatio="xMidYMid meet"
                           viewBox="0 0 24 24"
                         >
@@ -2063,7 +2063,7 @@ exports[`Storyshots Alert RTL 1`] = `
                         className="ListItem__IconContainer-sc-1vswvev-1 cbucXp"
                       >
                         <svg
-                          className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                          className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                           preserveAspectRatio="xMidYMid meet"
                           viewBox="0 0 24 24"
                         >
@@ -2102,7 +2102,7 @@ exports[`Storyshots Alert RTL 1`] = `
                   className="ButtonLink__IconContainer-sc-14jv5cl-0 bCwZJN"
                 >
                   <svg
-                    className="Icon__StyledIcon-sc-1pnzn3g-0 bIWLsu"
+                    className="Icon__StyledIcon-sc-1pnzn3g-0 dJhjFj"
                     preserveAspectRatio="xMidYMid meet"
                     viewBox="0 0 24 24"
                   >
@@ -3077,7 +3077,7 @@ Avoid using success banner if there is any follow-up action, for example, in cas
               className="Alert__IconContainer-svgppc-1 eLpkaR"
             >
               <svg
-                className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                 preserveAspectRatio="xMidYMid meet"
                 viewBox="0 0 24 24"
               >
@@ -3387,7 +3387,7 @@ exports[`Storyshots Alert Warning alert 1`] = `
               className="Alert__IconContainer-svgppc-1 Jewxp"
             >
               <svg
-                className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                 preserveAspectRatio="xMidYMid meet"
                 viewBox="0 0 24 24"
               >

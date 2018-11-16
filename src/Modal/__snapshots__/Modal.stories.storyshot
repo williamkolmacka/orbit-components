@@ -126,7 +126,7 @@ exports[`Storyshots Modal Full preview 1`] = `
                       className="ButtonLink__IconContainer-sc-14jv5cl-0 pfllg"
                     >
                       <svg
-                        className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                        className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                         preserveAspectRatio="xMidYMid meet"
                         viewBox="0 0 24 24"
                       >
@@ -219,7 +219,7 @@ exports[`Storyshots Modal Full preview 1`] = `
                             className="Button__IconContainer-sc-1brqp3f-0 cvyiB"
                           >
                             <svg
-                              className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                              className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                               preserveAspectRatio="xMidYMid meet"
                               viewBox="0 0 24 24"
                             >
@@ -1699,7 +1699,7 @@ exports[`Storyshots Modal RTL 1`] = `
                       className="ButtonLink__IconContainer-sc-14jv5cl-0 pfllg"
                     >
                       <svg
-                        className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                        className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                         preserveAspectRatio="xMidYMid meet"
                         viewBox="0 0 24 24"
                       >
@@ -1780,7 +1780,7 @@ exports[`Storyshots Modal RTL 1`] = `
                           className="Button__IconContainer-sc-1brqp3f-0 fpTuoe"
                         >
                           <svg
-                            className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                            className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                             preserveAspectRatio="xMidYMid meet"
                             viewBox="0 0 24 24"
                           >
@@ -2783,7 +2783,7 @@ exports[`Storyshots Modal Sizes 1`] = `
                       className="ButtonLink__IconContainer-sc-14jv5cl-0 pfllg"
                     >
                       <svg
-                        className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                        className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                         preserveAspectRatio="xMidYMid meet"
                         viewBox="0 0 24 24"
                       >

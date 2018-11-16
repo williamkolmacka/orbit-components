@@ -129,7 +129,7 @@ exports[`Storyshots InputFile Default 1`] = `
                     className="Button__IconContainer-sc-1brqp3f-0 fYILxr"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -509,7 +509,7 @@ exports[`Storyshots InputFile Filled with file 1`] = `
                     className="Button__IconContainer-sc-1brqp3f-0 fYILxr"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -536,7 +536,7 @@ exports[`Storyshots InputFile Filled with file 1`] = `
                   className="ButtonLink__IconContainer-sc-14jv5cl-0 pfllg"
                 >
                   <svg
-                    className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                    className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                     preserveAspectRatio="xMidYMid meet"
                     viewBox="0 0 24 24"
                   >
@@ -947,7 +947,7 @@ exports[`Storyshots InputFile Playground 1`] = `
                     className="Button__IconContainer-sc-1brqp3f-0 fYILxr"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -1592,7 +1592,7 @@ exports[`Storyshots InputFile RTL 1`] = `
                     className="Button__IconContainer-sc-1brqp3f-0 hhzYip"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -1904,7 +1904,7 @@ exports[`Storyshots InputFile With error 1`] = `
                     className="Button__IconContainer-sc-1brqp3f-0 fYILxr"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
@@ -2319,7 +2319,7 @@ exports[`Storyshots InputFile With help 1`] = `
                     className="Button__IconContainer-sc-1brqp3f-0 fYILxr"
                   >
                     <svg
-                      className="Icon__StyledIcon-sc-1pnzn3g-0 geWqaO"
+                      className="Icon__StyledIcon-sc-1pnzn3g-0 hoEcZN"
                       preserveAspectRatio="xMidYMid meet"
                       viewBox="0 0 24 24"
                     >
