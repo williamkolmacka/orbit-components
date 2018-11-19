@@ -7,6 +7,7 @@ import { TYPES, SIZES, TOKENS } from "./consts";
 import { ICON_SIZES } from "../Icon/consts";
 import { getSize } from "../Icon";
 import { rtlSpacing } from "../utils/rtl";
+import type { Ref } from "../common/common.js.flow";
 
 import type { Props } from "./index";
 
@@ -150,35 +151,46 @@ IconContainer.defaultProps = {
 };
 
 export const StyledButtonLink = styled(
-  ({
-    onlyIcon,
-    component,
-    circled,
-    external,
-    block,
-    type,
-    icon,
-    iconLeft,
-    iconRight,
-    sizeIcon,
-    width,
-    children,
-    transparent,
-    style,
-    theme,
-    dataTest,
-    submit,
-    ...props
-  }) => {
-    const isButtonWithHref = component === "button" && props.href;
-    const Component = isButtonWithHref ? "a" : component;
-    const buttonType = submit ? "submit" : "button";
-    return (
-      <Component data-test={dataTest} type={!isButtonWithHref ? buttonType : undefined} {...props}>
-        {children}
-      </Component>
-    );
-  },
+  // $FlowExpected
+  React.forwardRef(
+    (
+      {
+        onlyIcon,
+        component,
+        circled,
+        external,
+        block,
+        type,
+        icon,
+        iconLeft,
+        iconRight,
+        sizeIcon,
+        width,
+        children,
+        transparent,
+        style,
+        theme,
+        dataTest,
+        submit,
+        ...props
+      },
+      ref,
+    ) => {
+      const isButtonWithHref = component === "button" && props.href;
+      const Component = isButtonWithHref ? "a" : component;
+      const buttonType = submit ? "submit" : "button";
+      return (
+        <Component
+          data-test={dataTest}
+          type={!isButtonWithHref ? buttonType : undefined}
+          ref={ref}
+          {...props}
+        >
+          {children}
+        </Component>
+      );
+    },
+  ),
 )`
   font-family: ${({ theme }) => theme.orbit.fontFamily};
   box-sizing: border-box;
@@ -229,7 +241,8 @@ StyledButtonLink.defaultProps = {
   theme: defaultTokens,
 };
 
-const ButtonLink = (props: Props) => {
+// $FlowExpected
+const ButtonLink = React.forwardRef((props: Props, ref: Ref) => {
   const {
     external,
     children,
@@ -257,6 +270,7 @@ const ButtonLink = (props: Props) => {
       type={type}
       target={href && external ? "_blank" : undefined}
       iconLeft={iconLeft}
+      ref={ref}
     >
       {iconLeft && (
         <IconContainer size={size} type={type} onlyIcon={onlyIcon} sizeIcon={sizeIcon}>
@@ -271,7 +285,7 @@ const ButtonLink = (props: Props) => {
       )}
     </StyledButtonLink>
   );
-};
+});
 
 ButtonLink.defaultProps = {
   component: "button",
@@ -281,5 +295,7 @@ ButtonLink.defaultProps = {
   width: 0,
   transparent: false,
 };
+
+ButtonLink.displayName = "ButtonLink";
 
 export default ButtonLink;

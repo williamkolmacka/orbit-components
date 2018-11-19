@@ -11506,11 +11506,13 @@ exports[`Default Stack should match snapshot 1`] = `
                   "displayName": "Button__StyledButton",
                   "render": [Function],
                   "styledComponentId": "Button__StyledButton-sc-1brqp3f-1",
-                  "target": [Function],
+                  "target": Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "render": [Function],
+                  },
                   "toString": [Function],
                   "warnTooManyClasses": [Function],
                   "withComponent": [Function],
-                  Symbol(Symbol.hasInstance): [Function],
                 }
               }
               forwardedRef={null}
@@ -11904,7 +11906,7 @@ exports[`Default Stack should match snapshot 1`] = `
               type="primary"
               width={0}
             >
-              <Component
+              <ForwardRef
                 className="c8"
                 component="button"
                 loading={false}
@@ -13492,7 +13494,7 @@ exports[`Default Stack should match snapshot 1`] = `
                     </StyledComponent>
                   </Button__StyledButtonContent>
                 </button>
-              </Component>
+              </ForwardRef>
             </StyledComponent>
           </Button__StyledButton>
         </Button>
@@ -25145,11 +25147,13 @@ exports[`Stack with enabled flex should match snapshot 1`] = `
                     "displayName": "Button__StyledButton",
                     "render": [Function],
                     "styledComponentId": "Button__StyledButton-sc-1brqp3f-1",
-                    "target": [Function],
+                    "target": Object {
+                      "$$typeof": Symbol(react.forward_ref),
+                      "render": [Function],
+                    },
                     "toString": [Function],
                     "warnTooManyClasses": [Function],
                     "withComponent": [Function],
-                    Symbol(Symbol.hasInstance): [Function],
                   }
                 }
                 forwardedRef={null}
@@ -25543,7 +25547,7 @@ exports[`Stack with enabled flex should match snapshot 1`] = `
                 type="primary"
                 width={0}
               >
-                <Component
+                <ForwardRef
                   className="c8"
                   component="button"
                   loading={false}
@@ -27131,7 +27135,7 @@ exports[`Stack with enabled flex should match snapshot 1`] = `
                       </StyledComponent>
                     </Button__StyledButtonContent>
                   </button>
-                </Component>
+                </ForwardRef>
               </StyledComponent>
             </Button__StyledButton>
           </Button>
@@ -38672,11 +38676,13 @@ exports[`Stack with flex prop should match snapshot 1`] = `
                   "displayName": "Button__StyledButton",
                   "render": [Function],
                   "styledComponentId": "Button__StyledButton-sc-1brqp3f-1",
-                  "target": [Function],
+                  "target": Object {
+                    "$$typeof": Symbol(react.forward_ref),
+                    "render": [Function],
+                  },
                   "toString": [Function],
                   "warnTooManyClasses": [Function],
                   "withComponent": [Function],
-                  Symbol(Symbol.hasInstance): [Function],
                 }
               }
               forwardedRef={null}
@@ -39070,7 +39076,7 @@ exports[`Stack with flex prop should match snapshot 1`] = `
               type="primary"
               width={0}
             >
-              <Component
+              <ForwardRef
                 className="c8"
                 component="button"
                 loading={false}
@@ -40658,7 +40664,7 @@ exports[`Stack with flex prop should match snapshot 1`] = `
                     </StyledComponent>
                   </Button__StyledButtonContent>
                 </button>
-              </Component>
+              </ForwardRef>
             </StyledComponent>
           </Button__StyledButton>
         </Button>

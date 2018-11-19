@@ -8,6 +8,7 @@ import { TYPE_OPTIONS, SIZE_OPTIONS, TOKENS } from "./consts";
 import Loading, { StyledSpinner } from "../Loading";
 import { rtlSpacing } from "../utils/rtl";
 import { getSize } from "../Icon";
+import type { Ref } from "../common/common.js.flow";
 
 import type { Props } from "./index";
 
@@ -304,35 +305,46 @@ IconContainer.defaultProps = {
 };
 
 export const StyledButton = styled(
-  ({
-    theme,
-    component,
-    circled,
-    external,
-    type,
-    icon,
-    iconLeft,
-    iconRight,
-    sizeIcon,
-    width,
-    bordered,
-    loading,
-    onlyIcon,
-    block,
-    style,
-    dataTest,
-    submit,
-    ...props
-  }) => {
-    const isButtonWithHref = component === "button" && props.href;
-    const Component = isButtonWithHref ? "a" : component;
-    const buttonType = submit ? "submit" : "button";
-    return (
-      <Component data-test={dataTest} type={!isButtonWithHref ? buttonType : undefined} {...props}>
-        {props.children}
-      </Component>
-    );
-  },
+  // $FlowExpected
+  React.forwardRef(
+    (
+      {
+        theme,
+        component,
+        circled,
+        external,
+        type,
+        icon,
+        iconLeft,
+        iconRight,
+        sizeIcon,
+        width,
+        bordered,
+        loading,
+        onlyIcon,
+        block,
+        style,
+        dataTest,
+        submit,
+        ...props
+      },
+      ref,
+    ) => {
+      const isButtonWithHref = component === "button" && props.href;
+      const Component = isButtonWithHref ? "a" : component;
+      const buttonType = submit ? "submit" : "button";
+      return (
+        <Component
+          data-test={dataTest}
+          type={!isButtonWithHref ? buttonType : undefined}
+          ref={ref}
+          {...props}
+        >
+          {props.children}
+        </Component>
+      );
+    },
+  ),
 )`
   position: relative;
   display: ${({ href, component }) => (href || component === "a" ? "inline-flex" : "flex")};
@@ -452,7 +464,8 @@ StyledButtonContent.defaultProps = {
   theme: defaultTokens,
 };
 
-const Button = (props: Props) => {
+// $FlowExpected
+const Button = React.forwardRef((props: Props, ref: Ref) => {
   const {
     component = "button",
     children,
@@ -488,6 +501,7 @@ const Button = (props: Props) => {
       target={href && external ? "_blank" : undefined}
       type={type}
       width={width}
+      ref={ref}
     >
       {loading && <Loading type="buttonLoader" />}
       <StyledButtonContent loading={loading}>
@@ -518,6 +532,8 @@ const Button = (props: Props) => {
       </StyledButtonContent>
     </StyledButton>
   );
-};
+});
+
+Button.displayName = "Button";
 
 export default Button;

@@ -450,7 +450,7 @@ exports[`InputStepper with help, prefix and suffix should match snapshot 1`] = `
             onFocus={[MockFunction]}
             onKeyDown={[Function]}
             prefix={
-              <ButtonLink
+              <ForwardRef
                 component={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
@@ -492,7 +492,7 @@ exports[`InputStepper with help, prefix and suffix should match snapshot 1`] = `
             required={false}
             size="normal"
             suffix={
-              <ButtonLink
+              <ForwardRef
                 component={
                   Object {
                     "$$typeof": Symbol(react.forward_ref),
@@ -7411,11 +7411,13 @@ exports[`InputStepper with help, prefix and suffix should match snapshot 1`] = `
                                             "displayName": "ButtonLink__StyledButtonLink",
                                             "render": [Function],
                                             "styledComponentId": "ButtonLink__StyledButtonLink-sc-14jv5cl-1",
-                                            "target": [Function],
+                                            "target": Object {
+                                              "$$typeof": Symbol(react.forward_ref),
+                                              "render": [Function],
+                                            },
                                             "toString": [Function],
                                             "warnTooManyClasses": [Function],
                                             "withComponent": [Function],
-                                            Symbol(Symbol.hasInstance): [Function],
                                           }
                                         }
                                         forwardedRef={null}
@@ -7816,7 +7818,7 @@ exports[`InputStepper with help, prefix and suffix should match snapshot 1`] = `
                                         type="primary"
                                         width={0}
                                       >
-                                        <Component
+                                        <ForwardRef
                                           className="c6"
                                           component={
                                             Object {
@@ -11491,7 +11493,7 @@ exports[`InputStepper with help, prefix and suffix should match snapshot 1`] = `
                                               </Component>
                                             </StyledComponent>
                                           </InputStepper__PrefixSuffix>
-                                        </Component>
+                                        </ForwardRef>
                                       </StyledComponent>
                                     </ButtonLink__StyledButtonLink>
                                   </ButtonLink>
@@ -15239,11 +15241,13 @@ exports[`InputStepper with help, prefix and suffix should match snapshot 1`] = `
                                             "displayName": "ButtonLink__StyledButtonLink",
                                             "render": [Function],
                                             "styledComponentId": "ButtonLink__StyledButtonLink-sc-14jv5cl-1",
-                                            "target": [Function],
+                                            "target": Object {
+                                              "$$typeof": Symbol(react.forward_ref),
+                                              "render": [Function],
+                                            },
                                             "toString": [Function],
                                             "warnTooManyClasses": [Function],
                                             "withComponent": [Function],
-                                            Symbol(Symbol.hasInstance): [Function],
                                           }
                                         }
                                         forwardedRef={null}
@@ -15644,7 +15648,7 @@ exports[`InputStepper with help, prefix and suffix should match snapshot 1`] = `
                                         type="primary"
                                         width={0}
                                       >
-                                        <Component
+                                        <ForwardRef
                                           className="c13"
                                           component={
                                             Object {
@@ -19319,7 +19323,7 @@ exports[`InputStepper with help, prefix and suffix should match snapshot 1`] = `
                                               </Component>
                                             </StyledComponent>
                                           </InputStepper__PrefixSuffix>
-                                        </Component>
+                                        </ForwardRef>
                                       </StyledComponent>
                                     </ButtonLink__StyledButtonLink>
                                   </ButtonLink>

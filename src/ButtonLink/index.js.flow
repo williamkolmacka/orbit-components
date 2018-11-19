@@ -1,12 +1,14 @@
 // @flow
 import type { ReactComponentStyled } from "styled-components";
 
-import type { Globals } from "../common/common.js.flow";
+import type { Globals, Ref } from "../common/common.js.flow";
 
 type Type = "primary" | "secondary";
 type Size = "small" | "normal" | "large";
 
 export type Props = {|
+  ...Globals,
+  ...Ref,
   +children?: React$Node,
   +component?: string | React$Node,
   +onClick?: (
@@ -25,7 +27,6 @@ export type Props = {|
   +circled?: boolean,
   +submit?: boolean,
   +transparent?: boolean,
-  ...Globals,
 |};
 
 declare export var StyledButtonLink: ReactComponentStyled<Props>;

@@ -903,11 +903,13 @@ exports[`ButtonLink with Icon should match snapshot 1`] = `
           "displayName": "ButtonLink__StyledButtonLink",
           "render": [Function],
           "styledComponentId": "ButtonLink__StyledButtonLink-sc-14jv5cl-1",
-          "target": [Function],
+          "target": Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "render": [Function],
+          },
           "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
@@ -1304,7 +1306,7 @@ exports[`ButtonLink with Icon should match snapshot 1`] = `
       type="primary"
       width={0}
     >
-      <Component
+      <ForwardRef
         className="c0"
         component="button"
         dataTest="test"
@@ -1711,7 +1713,7 @@ exports[`ButtonLink with Icon should match snapshot 1`] = `
         >
           ButtonLink
         </a>
-      </Component>
+      </ForwardRef>
     </StyledComponent>
   </ButtonLink__StyledButtonLink>
 </ButtonLink>
@@ -2674,11 +2676,13 @@ exports[`ButtonLink with Icon should match snapshot 2`] = `
           "displayName": "ButtonLink__StyledButtonLink",
           "render": [Function],
           "styledComponentId": "ButtonLink__StyledButtonLink-sc-14jv5cl-1",
-          "target": [Function],
+          "target": Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "render": [Function],
+          },
           "toString": [Function],
           "warnTooManyClasses": [Function],
           "withComponent": [Function],
-          Symbol(Symbol.hasInstance): [Function],
         }
       }
       forwardedRef={null}
@@ -3076,7 +3080,7 @@ exports[`ButtonLink with Icon should match snapshot 2`] = `
       type="primary"
       width={0}
     >
-      <Component
+      <ForwardRef
         className="c0"
         component="button"
         external={false}
@@ -9860,7 +9864,7 @@ exports[`ButtonLink with Icon should match snapshot 2`] = `
             </StyledComponent>
           </ButtonLink__IconContainer>
         </a>
-      </Component>
+      </ForwardRef>
     </StyledComponent>
   </ButtonLink__StyledButtonLink>
 </ButtonLink>
